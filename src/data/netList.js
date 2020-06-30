@@ -58,6 +58,11 @@ export default [
         describe: '基于 Node.js 平台，快速、开放、极简的 Web 开发框架'
       },
       {
+        name: 'MongoDB',
+        link: 'https://www.mongodb.org.cn/manual/',
+        describe: 'MongoDB 在 bin 目录下提供了一系列有用的工具，这些工具提供了 MongoDB 在运维管理上 的方便。'
+      },
+      {
         name: 'Flutter',
         link: 'https://flutterchina.club/',
         describe: 'Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面'
@@ -133,8 +138,18 @@ export default [
         describe: ''
       },
       {
+        name: 'stackoverflow',
+        link: 'https://stackoverflow.com/',
+        describe: ''
+      },
+      {
         name: '知乎',
         link: 'https://www.zhihu.com',
+        describe: ''
+      },
+      {
+        name: '博客园',
+        link: 'https://www.cnblogs.com/cate/108703/',
         describe: ''
       },
       {
@@ -145,6 +160,11 @@ export default [
       {
         name: '极客时间',
         link: 'https://service.geekbang.org/?',
+        describe: ''
+      },
+      {
+        name: '慕课网',
+        link: 'https://class.imooc.com/',
         describe: ''
       },
       {
@@ -171,6 +191,11 @@ export default [
         name: '按比例压缩图片',
         link: 'https://squoosh.app/',
         describe: '图片大小压缩（可选择压缩比例）'
+      },
+      {
+        name: '合成雪碧图',
+        link: 'https://www.toptal.com/developers/css/sprite-generator',
+        describe: '多张图片合成雪碧图，并生成对应css'
       },
       {
         name: '中国地图数据',
@@ -206,6 +231,11 @@ export default [
         name: 'Can I use',
         link: 'https://caniuse.com/#feat=picture-in-picture',
         describe: 'Allows websites to create a floating video window that is always on top of other windows so that users may continue consuming media while they interact with other sites or applications on their device.'
+      },
+      {
+        name: 'CDN 库',
+        link: 'https://www.bootcdn.cn/',
+        describe: '稳定、快速、免费的前端开源项目 CDN 加速服务 '
       }
     ]
   }

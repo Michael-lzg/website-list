@@ -68,6 +68,11 @@ export default [
         describe: 'Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面'
       },
       {
+        name: 'Mock.js',
+        link: 'http://mockjs.com/',
+        describe: '生成随机数据，拦截 Ajax 请求'
+      },
+      {
         name: 'Yapi',
         link: 'https://hellosean1025.github.io/yapi/documents/index.html',
         describe: 'mock模拟接口'
@@ -115,6 +120,16 @@ export default [
       {
         name: '百度地图',
         link: 'http://lbsyun.baidu.com/',
+        describe: ''
+      }
+    ]
+  },
+  {
+    title: '插件库',
+    list: [
+      {
+        name: 'Animate.css',
+        link: 'https://animate.style/',
         describe: ''
       }
     ]

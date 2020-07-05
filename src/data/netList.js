@@ -128,9 +128,19 @@ export default [
     title: '插件库',
     list: [
       {
+        name: 'jQuery 插件库',
+        link: 'http://www.jq22.com/',
+        describe: ''
+      },
+      {
         name: 'Animate.css',
         link: 'https://animate.style/',
         describe: ''
+      },
+      {
+        name: 'WebUploader',
+        link: 'https://github.com/fex-team/webuploader',
+        describe: '百度开发的分片上传神器'
       }
     ]
   },
@@ -170,6 +180,11 @@ export default [
       {
         name: '牛客网',
         link: 'https://www.nowcoder.com/',
+        describe: ''
+      },
+      {
+        name: '賽码网',
+        link: 'https://www.acmcoder.com/index',
         describe: ''
       },
       {
@@ -250,7 +265,12 @@ export default [
       {
         name: 'CDN 库',
         link: 'https://www.bootcdn.cn/',
-        describe: '稳定、快速、免费的前端开源项目 CDN 加速服务 '
+        describe: '稳定、快速、免费的前端开源项目 CDN 加速服务'
+      },
+      {
+        name: 'stackoverflow',
+        link: 'https://stackoverflow.com//',
+        describe: ''
       }
     ]
   }

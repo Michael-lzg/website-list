@@ -4,7 +4,7 @@
       <div class="block" v-for="(block,k) in list" :key="k">
         <div class="title">{{block.title}}</div>
         <div class="listItem">
-          <div class="items" v-for="(item,index) in block.list" :key="index" v-on:mouseover="changeActive($event)" v-on:mouseout="removeActive($event)">{{item.name}}</div>
+          <div class="items" v-for="(item,index) in block.list" :key="index" v-on:mouseover="changeActive($event)" v-on:mouseout="removeActive($event)" @click="toUrl(item.link)">{{item.name}}</div>
         </div>
       </div>
     </div>
@@ -26,6 +26,10 @@ export default {
     },
     removeActive ($event) {
       $event.target.classList.remove('active')
+    },
+    toUrl (link) {
+      // window.location.href = link
+      window.open(link)
     }
   }
 }

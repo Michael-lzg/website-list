@@ -125,6 +125,26 @@ export default [
     ]
   },
   {
+    title: '学习资料',
+    list: [
+      {
+        name: 'vue源码解读',
+        link: 'https://github.com/biaochenxuying/vue-family-mindmap',
+        describe: ''
+      },
+      {
+        name: 'Nodejs学习笔记',
+        link: 'https://github.com/chyingp/nodejs-learning-guide',
+        describe: ''
+      },
+      {
+        name: '木易杨进阶系列',
+        link: 'https://github.com/yygmind/blog',
+        describe: ''
+      }
+    ]
+  },
+  {
     title: '插件库',
     list: [
       {

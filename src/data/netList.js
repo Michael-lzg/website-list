@@ -228,6 +228,11 @@ export default [
     title: '常用工具',
     list: [
       {
+        name: '导航大全',
+        link: 'https://nav3.cn/#/index?page=0&_=1595985606186',
+        describe: ''
+      },
+      {
         name: 'tinypng压缩图片',
         link: 'https://tinypng.com',
         describe: '在线图片压缩'
@@ -289,9 +294,15 @@ export default [
       },
       {
         name: 'stackoverflow',
-        link: 'https://stackoverflow.com//',
+        link: 'https://stackoverflow.com/',
         describe: ''
-      }
+      },
+      {
+        name: 'Lighthouse',
+        link: 'https://developers.google.com/web/tools/lighthouse',
+        describe: '一个Google开源的自动化工具，主要用于改进网络应用（移动端）的质量。目前测试项包括页面性能、PWA、可访问性（无障碍）、最佳实践、SEO。'
+      },
+
     ]
   }
 ]

@@ -121,6 +121,16 @@ export default [
         name: '百度地图',
         link: 'http://lbsyun.baidu.com/',
         describe: ''
+      },
+      {
+        name: '飞冰',
+        link: 'https://ice.work/docs/guide/about',
+        describe: '简单而友好的前端研发体系'
+      },
+      {
+        name: 'AnTV',
+        link: 'https://antv.gitee.io/zh#products',
+        describe: 'AntV 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单方便、专业可靠、无限可能的数据可视化最佳实践。'
       }
     ]
   },
@@ -301,7 +311,7 @@ export default [
         name: 'Lighthouse',
         link: 'https://developers.google.com/web/tools/lighthouse',
         describe: '一个Google开源的自动化工具，主要用于改进网络应用（移动端）的质量。目前测试项包括页面性能、PWA、可访问性（无障碍）、最佳实践、SEO。'
-      },
+      }
 
     ]
   }

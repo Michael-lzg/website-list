@@ -40,6 +40,7 @@ export default {
   width: 1200px;
   margin: 0 auto;
   background-color: #fff;
+  padding-bottom: 20px;
 }
 .list {
   .block {
@@ -69,6 +70,7 @@ export default {
   }
   .active {
     font-size: 16px;
+    line-height: 43px;
     font-weight: 600;
     color: #fff;
     background: linear-gradient(90deg, #1890ff, #455bfb);

@@ -168,6 +168,21 @@ export default [
         describe: ''
       },
       {
+        name: 'You-need-to-know-css',
+        link: 'https://lhammer.cn/You-need-to-know-css/#/zh-cn/introduce?v=1',
+        describe: ''
+      },
+      {
+        name: 'CSS-Inspiration',
+        link: 'https://chokcoco.github.io/CSS-Inspiration/#/',
+        describe: ''
+      },
+      {
+        name: 'CSS_tricks CSS',
+        link: 'http://css-tricks.neatbang.com/polygonLayout/#',
+        describe: ''
+      },
+      {
         name: 'WebUploader',
         link: 'https://github.com/fex-team/webuploader',
         describe: '百度开发的分片上传神器'

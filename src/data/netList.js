@@ -13,6 +13,11 @@ export default [
         describe: '用于构建用户界面的 JavaScript 库'
       },
       {
+        name: 'React Native',
+        link: 'https://reactnative.cn/',
+        describe: '使用 React 来创建 Android 和 iOS 的原生应用'
+      },
+      {
         name: 'Angular',
         link: 'https://angular.cn/',
         describe: '一套框架，多种平台移动端 & 桌面端'
@@ -186,6 +191,11 @@ export default [
         name: 'WebUploader',
         link: 'https://github.com/fex-team/webuploader',
         describe: '百度开发的分片上传神器'
+      },
+      {
+        name: 'bootcdn CDN库',
+        link: 'https://www.bootcdn.cn/',
+        describe: '稳定、快速、免费的前端开源项目 CDN 加速服务'
       }
     ]
   },
@@ -243,9 +253,44 @@ export default [
         describe: ''
       },
       {
+        name: '网易云课堂',
+        link: 'https://study.163.com/',
+        describe: ''
+      },
+      {
         name: '码农周刊',
         link: 'https://weekly.manong.io/issues/',
         describe: ''
+      }
+    ]
+  },
+  {
+    title: '图片处理',
+    list: [
+      {
+        name: 'tinypng压缩图片',
+        link: 'https://tinypng.com',
+        describe: '在线图片压缩'
+      },
+      {
+        name: 'tutudu图片处理',
+        link: 'http://tp.tutudu.com/images',
+        describe: '图片大小压缩 图片格式转换'
+      },
+      {
+        name: 'squoosh压缩图片',
+        link: 'https://squoosh.app/',
+        describe: '图片大小压缩（可选择压缩比例）'
+      },
+      {
+        name: 'docsmall压缩工具',
+        link: 'https://docsmall.com/pdf-compress',
+        describe: '经常用来压缩图片、GIF、PDF'
+      },
+      {
+        name: '合成雪碧图',
+        link: 'https://www.toptal.com/developers/css/sprite-generator',
+        describe: '多张图片合成雪碧图，并生成对应css'
       }
     ]
   },
@@ -257,26 +302,7 @@ export default [
         link: 'https://nav3.cn/#/index?page=0&_=1595985606186',
         describe: ''
       },
-      {
-        name: 'tinypng压缩图片',
-        link: 'https://tinypng.com',
-        describe: '在线图片压缩'
-      },
-      {
-        name: '图片格式转换',
-        link: 'http://tp.tutudu.com/images',
-        describe: '图片大小压缩 图片格式转换'
-      },
-      {
-        name: '按比例压缩图片',
-        link: 'https://squoosh.app/',
-        describe: '图片大小压缩（可选择压缩比例）'
-      },
-      {
-        name: '合成雪碧图',
-        link: 'https://www.toptal.com/developers/css/sprite-generator',
-        describe: '多张图片合成雪碧图，并生成对应css'
-      },
+
       {
         name: '中国地图数据',
         link: 'http://datav.aliyun.com/tools/atlas/',
@@ -313,19 +339,19 @@ export default [
         describe: 'Allows websites to create a floating video window that is always on top of other windows so that users may continue consuming media while they interact with other sites or applications on their device.'
       },
       {
-        name: 'CDN 库',
-        link: 'https://www.bootcdn.cn/',
-        describe: '稳定、快速、免费的前端开源项目 CDN 加速服务'
-      },
-      {
-        name: 'stackoverflow',
-        link: 'https://stackoverflow.com/',
-        describe: ''
-      },
-      {
         name: 'Lighthouse',
         link: 'https://developers.google.com/web/tools/lighthouse',
         describe: '一个Google开源的自动化工具，主要用于改进网络应用（移动端）的质量。目前测试项包括页面性能、PWA、可访问性（无障碍）、最佳实践、SEO。'
+      },
+      {
+        name: '小码短连接',
+        link: 'https://xiaomark.com/',
+        describe: '简单易用的渠道短链接统计工具'
+      },
+      {
+        name: '草料二维码',
+        link: 'https://cli.im/',
+        describe: '根据网站链接生成二维码'
       }
 
     ]
